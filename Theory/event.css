@@ -1,0 +1,15 @@
+.mybox{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 5px;
+}
+h1{
+    background-color: yellow;
+    font-size: x-large;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
